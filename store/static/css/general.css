@@ -17,6 +17,8 @@ body {margin: 0px; padding: 0px 0px 0px 0px; color: #413f36; background-color:#f
    width: 50px;
 }
 .logo, h1, h2, h3, h4, h5 { font-family: 'Yanone Kaffeesatz', arial, serif; }
+.logo a { color:#ffffff; text-decoration:none; }
+.logo a:hover, a:focus, a:active, a:visited { text-decoration:none;}
 #bodywrap {width: 100%; background-image: url(../images/bg-2.jpg); background-repeat: no-repeat; background-position: top center; padding:56px 0px 0px 0px; }
 #bottom-bg {width: 100%; background-image: url(../images/bg-3.jpg); background-repeat: no-repeat; background-position: bottom center; padding-bottom: 90px;}
 header {height:112px; position:relative; margin-bottom:5px;}
